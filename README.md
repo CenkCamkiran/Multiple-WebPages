@@ -1,2 +1,2 @@
 # Multiple-WebPages
-patika Dev Ödev 1 Sayfamıza Biraz Makyaj Yapalım
+Patika Dev Ödev 1 Sayfamıza Biraz Makyaj Yapalım
